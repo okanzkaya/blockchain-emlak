@@ -11,4 +11,4 @@ The Istanbul Property Management System is designed to revolutionize how real es
 # Technologies used:
 Javascript, React.js, Lucide.React
 
-Note: This is a very early prototype, more like a visualization of an idea.
+Note: This is a very early prototype instead of a full fledged project, more like a visualization of an idea.
